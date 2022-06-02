@@ -1,6 +1,6 @@
 - I’m @JoaquimCarneiro
 - I’m interested in OpenSource, Linux, Programming and Graphic Design
-- I’m currently learning C/C++, C#, Java, PHP, JavaScrip
+- I’m currently learning C/C++, C#, Java, Python, PHP, JavaScrip
 - I’m looking to collaborate on Opensource projects
 
 
